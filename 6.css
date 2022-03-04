@@ -1,0 +1,26 @@
+div {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+  }
+  .c1{
+    background: #F7F3D7;
+    top:150;
+    right:200;
+    border-radius: 00% 00px 00% 100%;
+  }
+  .c2{
+    background: #51B5A9;
+    bottom:150;
+    right:200;
+    border-radius: 100% 00px 00% 00%;
+  }
+  .c3{
+    background: #FADE8B;
+    bottom:150;
+    left:200;
+    border-radius: 00% 100px 00% 00%;
+  }
+  body{
+    background:#E3516E
+  }
